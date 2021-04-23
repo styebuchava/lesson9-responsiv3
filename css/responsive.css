@@ -1,0 +1,138 @@
+@media (max-width: 1085px) {
+  .box-wraper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .third {
+    margin-bottom: 20px;
+  }
+  .title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+
+@media (max-width: 930px) {
+  .text-box3 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: center;
+  }
+
+  .img-box3 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+
+@media (max-width: 1025px) {
+  .nav {
+    display: none;
+  }
+  .fa-bars {
+    display: block;
+    margin-right: 30px;
+  }
+  .container1 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+@media (max-width: 945px) {
+  .foot-wraper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .left-foot-block {
+    margin-left: 0%;
+  }
+  .right-block1 {
+    text-align: center;
+  }
+}
+
+@media (max-width: 560px) {
+  .list-wraper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .nav-head {
+    padding-left: 10px;
+  }
+}
+@media (max-width: 538px) {
+  .left-block1 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    max-width: 320px;
+    width: 100%;
+  }
+  .img-2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .food-text {
+    margin-top: 0%;
+  }
+  .img3-1 {
+    width: 100%;
+  }
+  .img3-2 {
+    width: 100%;
+  }
+  .img3-3 {
+    width: 100%;
+  }
+  .restaurant {
+    padding-left: 45px;
+  }
+  .res {
+    padding-left: 45px;
+  }
+  .last-text {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
